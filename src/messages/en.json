@@ -1,0 +1,340 @@
+{
+  "LocaleSwitcher": {
+    "switchToFrench": "Switch to French",
+    "switchToEnglish": "Switch to English",
+    "en": "EN",
+    "fr": "FR"
+  },
+  "CTA": {
+    "label": "Get Started"
+  },
+  "Header": {
+    "services": "Services",
+    "pricing": "Pricing",
+    "showcase": "Gallery",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "Hero": {
+    "title": "Premium Window Cleaning",
+    "subtitle": "Crystal-clear views with our professional window cleaning services",
+    "cta": "Get a Quote"
+  },
+  "Services": {
+    "cta": "Contact Us",
+    "title": "Exceptional Window Services",
+    "subtitle": "Tailored solutions for all your window cleaning needs",
+    "residential": {
+      "title": "Residential Window Cleaning",
+      "imageAlt": "Residential window cleaning service",
+      "description": "A complete service to keep your home windows spotless all year round.",
+      "benefit1": "Gentle techniques for all types of glass",
+      "benefit2": "Eco-friendly and safe cleaning products",
+      "benefit3": "Satisfaction guaranteed"
+    },
+    "commercial": {
+      "title": "Commercial Window Cleaning",
+      "imageAlt": "Commercial window cleaning service",
+      "description": "Professional solutions for office and storefront windows.",
+      "benefit1": "Industrial-grade equipment for large buildings",
+      "benefit2": "Flexible scheduling tailored to your business needs",
+      "benefit3": "Experienced and certified teams"
+    },
+    "recurring": {
+      "title": "Recurring Services",
+      "imageAlt": "Recurring window maintenance service",
+      "description": "Schedule periodic maintenance for consistently pristine windows.",
+      "benefit1": "Affordable monthly or quarterly packages",
+      "benefit2": "Automatic reminders for every appointment",
+      "benefit3": "Discounted rates for annual contracts"
+    },
+    "specialized": {
+      "title": "Specialized Window Cleaning",
+      "imageAlt": "Specialized window cleaning service",
+      "description": "Expert solutions for unique window cleaning needs.",
+      "benefit1": "Tailored cleaning for hard-to-reach windows",
+      "benefit2": "Stained glass and specialty glass care",
+      "benefit3": "Safe and efficient service by trained professionals"
+    }
+  },
+  "WhatWeDo": {
+    "title": "Our Approach",
+    "description": "At purifya, we elevate window cleaning to an art form. Our specialists use advanced techniques and premium solutions to ensure streak-free, crystal-clear windows that transform your space and maximize natural light.",
+    "list": {
+      "precision": "Meticulous attention to frames, tracks, and sills",
+      "expertise": "Safe handling of delicate or specialty glass",
+      "customization": "Customized cleaning plans for your unique property"
+    },
+    "imageAlt": "Professional window cleaning in action"
+  },
+  "LuxuryShowcase": {
+    "cta": "Contact Us",
+    "title": "See the Difference",
+    "subtitle": "Exquisite spaces that redefine luxury living",
+
+    "image1Alt": "Spotless home windows",
+    "image1Title": "Residential Excellence",
+    "image1Description": "Experience the luxury of perfectly cleaned windows that frame your view and flood your home with natural light.",
+    "image2Alt": "Commercial storefront windows",
+    "image2Title": "Commercial Clarity",
+    "image2Description": "Make the right impression with immaculate storefront windows that showcase your business in the best possible light.",
+    "image3Alt": "Interior window detail cleaning",
+    "image3Title": "Interior Detailing",
+    "image3Description": "Enjoy immaculate frames, sills, and tracks with our comprehensive interior detailing that ensures every component of your window system is pristine.",
+    "image4Alt": "Specialty window cleaning",
+    "image4Title": "Specialty Glass Solutions",
+    "image4Description": "From stained glass to special glass, we have the expertise to clean and protect your most valuable and unique windows."
+  },
+  "ParallaxScroll": {
+    "title": "Expert Window Care",
+    "subtitle": "Transforming Spaces Through Precision and Elegance",
+    "image1Alt": "Storefront window cleaning service",
+    "image1Title": "Crystal Clear Commercial Displays",
+    "image1Description": "Professional storefront window washing for maximum curb appeal and spotless presentation.",
+    "image2Alt": "Exterior window maintenance",
+    "image2Title": "Streak-Free Storefronts",
+    "image2Description": "Interior and exterior window cleaning to enhance natural light and maintain pristine views for your business.",
+    "image3Alt": "High-rise window maintenance",
+    "image3Title": "Elevated Glass Solutions",
+    "image3Description": "Specialized techniques for high-rise buildings and challenging architectural features.",
+    "image4Alt": "Luxury mirror and glass care",
+    "image4Title": "Reflective Perfection",
+    "image4Description": "Expert mirror polishing and specialty glass treatments for flawless surfaces."
+  },
+  "Pricing": {
+    "title": "Window Cleaning Options",
+    "description": "Explore our different cleaning services; we offer comprehensive packages to meet your specific needs.",
+    "customQuote": "Get a Custom Quote",
+    "customQuoteDescription": "For properties with unique requirements, we provide detailed, personalized estimates.",
+    "contactUs": "Contact Us",
+    "freeQuote": "FREE QUOTE",
+    "learnMore": "Contact Us",
+    "services": {
+      "residentialCleaning": {
+        "title": "Interior & Exterior Windows",
+        "description": "Complete window cleaning service for homes of all sizes."
+      },
+      "deepCleaning": {
+        "title": "Intensive Window Cleaning",
+        "description": "Thorough cleaning for tracks, frames, and screens."
+      },
+      "regularMaintenance": {
+        "title": "Seasonal Maintenance",
+        "description": "Regular service plans to keep windows pristine through every season."
+      },
+      "bathroomCleaning": {
+        "title": "Glass Shower Doors",
+        "description": "Specialized cleaning for bathroom glass and shower enclosures."
+      },
+      "officeCleaning": {
+        "title": "Commercial Windows",
+        "description": "Professional cleaning for businesses, storefronts, and office buildings."
+      },
+      "specializedCleaning": {
+        "title": "Detailed Window Cleaning",
+        "description": "Extra attention for windows needing special care."
+      }
+    },
+    "features": {
+      "availableAnytime": {
+        "title": "Flexible Scheduling",
+        "description": "We work around your schedule to provide service with minimal disruption."
+      },
+      "premiumQuality": {
+        "title": "Superior Results",
+        "description": "We use professional-grade tools and solutions for streak-free perfection."
+      },
+      "fastEfficient": {
+        "title": "Efficient Service",
+        "description": "Expert technicians work quickly without sacrificing attention to detail."
+      },
+      "reliableService": {
+        "title": "Satisfaction Guaranteed",
+        "description": "We stand behind our work with a 100% satisfaction guarantee on all services."
+      }
+    }
+  },
+  "WindowCTA": {
+    "title": "Crystal Clear Windows Guaranteed",
+    "description": "Professional window cleaning services using eco-friendly solutions. Get streak-free results and enjoy sparkling views today!",
+    "cta": "Request Free Quote",
+    "learnMore": "View Services"
+  },
+  "Footer": {
+    "about": {
+      "title": "About purifya",
+      "description": "purifya provides premium window cleaning services for discerning clients in Montreal, ensuring perfect clarity and pristine views."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "Greater Montreal Area",
+      "phone": "+1 (438) 530 3350",
+      "whatsapp": "+1 (438) 530 3350",
+      "email": "info@purifya.ca",
+      "name": "Name",
+      "message": "Message",
+      "send": "Send",
+      "getInTouch": "Get in Touch",
+      "sending": "Sending..."
+    },
+    "followUs": "Follow Us",
+    "rights": "All rights reserved.",
+    "contactUs": "Contact Us",
+    "contactMethods": {
+      "email": "Send an Email",
+      "whatsapp": "WhatsApp",
+      "phone": "Call Us"
+    },
+    "socialMedia": {
+      "facebook": "Follow us on Facebook",
+      "instagram": "Follow us on Instagram",
+      "twitter": "Follow us on Twitter"
+    },
+    "toasts": {
+      "success": {
+        "title": "Message sent",
+        "description": "We'll get back to you soon!"
+      },
+      "error": {
+        "title": "Error",
+        "description": "Failed to send message. Please try again."
+      }
+    },
+    "errors": {
+      "Name must be at least 2 characters": "Name must be at least 2 characters",
+      "Invalid email address": "Invalid email address",
+      "Message must be at least 10 characters": "Message must be at least 10 characters"
+    }
+  },
+  "About": {
+    "title": "Our Vision for Window Care",
+    "mission": "At purifya, we redefine window cleaning with innovative techniques and a commitment to quality, transforming spaces with lasting clarity.",
+    "ourStory": "OUR STORY",
+    "foundersAlt": "purifya founders team photo",
+    "foundersTitle": "Built on Expertise",
+    "foundersDescription": "Founded in 2024, purifya delivers precision window care with a focus on excellence and innovation.",
+    "foundersFact1": "Driven by excellence in quality and customer satisfaction.",
+    "foundersFact2": "Leveraging technology for eco-friendly solutions.",
+    "foundersFact3": "Locally owned and operated.",
+    "valuesTitle": "Our Guiding Principles",
+    "valuesSubtitle": "The foundation of everything we do",
+    "value1Title": "Precision Craftsmanship",
+    "value1Description": "Meticulous attention to every window.",
+    "value2Title": "Innovative Approach",
+    "value2Description": "Integrating technology for flawless results.",
+    "value3Title": "Sustainable Commitment",
+    "value3Description": "Environmentally responsible solutions.",
+    "learnMore": "Learn more"
+  },
+  "WhyChooseUs": {
+    "title": "WHY CHOOSE US",
+    "subtitle": "purifya serves Montreal with expertise in window cleaning. Choose us for our professional equipment, safety standards, and attention to detail.",
+    "sparklingClean": {
+      "title": "STREAK-FREE RESULTS",
+      "description": "Our specialized techniques and premium solutions ensure perfectly clear, streak-free windows that maximize natural light and enhance your views."
+    },
+    "leadingTech": {
+      "title": "ADVANCED EQUIPMENT",
+      "description": "We utilize water purification systems, professional-grade tools, and eco-friendly solutions that deliver superior results while protecting your property."
+    },
+    "insured": {
+      "title": "SATISFACTION GUARANTEED",
+      "description": "We stand behind our work with a complete satisfaction guarantee on every service, giving you confidence in consistently exceptional results for all your window cleaning needs."
+    },
+    "reliableCrew": {
+      "title": "DEDICATED SPECIALISTS",
+      "description": "Our window care professionals undergo rigorous training in specialized techniques and proper handling of all window types to deliver consistent, exceptional results every time."
+    },
+    "cta": "Contact Us",
+    "learnMore": "Learn More"
+  },
+  "Priority": {
+    "title": "OUR CORE VALUES",
+    "subtitle": "What Drives Us",
+    "labels": {
+      "customers": "CLIENT SATISFACTION",
+      "environment": "ENVIRONMENTAL RESPONSIBILITY",
+      "communication": "TRANSPARENT SERVICE"
+    },
+    "content": {
+      "customers": "We deliver exceptional window cleaning for homes and businesses, always listening to our clients and exceeding expectations with every service.",
+      "environment": "We use eco-friendly, biodegradable cleaning solutions and water conservation techniques to protect your property and the environment.",
+      "communication": "Our pricing is clear and competitive, and we stand behind our work with a satisfaction guarantee. If you're not completely satisfied, we'll return to address any concerns."
+    }
+  },
+  "LuxuryAppeal": {
+    "title": "The Impact of Crystal-Clear Windows",
+    "subtitle": "Discover how perfectly clean windows transform spaces and create lasting impressions",
+    "benefits": {
+      "visualAppeal": "Enhanced Aesthetics",
+      "visualAppealDesc": "Spotless windows dramatically improve the appearance of any property, inside and out",
+      "perception": "Improved Property Value",
+      "perceptionDesc": "Well-maintained windows significantly increase perceived value and curb appeal",
+      "businessGrowth": "Business Advantage",
+      "businessGrowthDesc": "For businesses, immaculate windows create a professional image that attracts customers and clients"
+    },
+    "statistic": "50% More",
+    "statisticDesc": "natural light enters through professionally cleaned windows"
+  },
+  "ContactForm": {
+    "title": "Contact Form",
+    "description": "Send us a message or contact us via WhatsApp for a free estimate.",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message"
+    },
+    "placeholders": {
+      "name": "Enter your name",
+      "email": "Enter your email",
+      "message": "Enter your message"
+    },
+    "errors": {
+      "name": "Name must be at least 2 characters",
+      "email": "Invalid email address",
+      "message": "Message must be at least 10 characters"
+    },
+    "success": {
+      "title": "Message sent!",
+      "description": "Thank you for your message. We'll get back to you soon."
+    },
+    "error": {
+      "title": "Error",
+      "description": "There was a problem sending your message. Please try again."
+    },
+    "buttons": {
+      "sendMessage": "Send Message",
+      "sending": "Sending...",
+      "contactWhatsApp": "Contact via WhatsApp"
+    }
+  },
+  "FooterContactForm": {
+    "contactFormTitle": "Contact Us",
+    "contactFormDescription": "Have a question or want to schedule window cleaning? Fill out the form below and we'll get back to you as soon as possible.",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Your Email",
+    "messagePlaceholder": "Your Message",
+    "sendingButton": "Sending...",
+    "sendButton": "Send Message",
+    "successTitle": "Message Sent",
+    "successDescription": "Thank you for reaching out! We'll get back to you shortly with a quote.",
+    "errorTitle": "Something Went Wrong",
+    "errorDescription": "There was an issue sending your message. Please try again later.",
+    "getInTouch": "Get in Touch",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "WhatsApp",
+    "followUs": "Follow Us",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "nameMin": "Name must be at least 2 characters long",
+    "emailInvalid": "Please enter a valid email address",
+    "messageMin": "Message must be at least 10 characters long",
+    "nameError": "Please enter your name",
+    "emailError": "Please enter your email",
+    "messageError": "Please enter your message"
+  }
+}
