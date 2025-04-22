@@ -18,34 +18,34 @@ const geistMono = localFont({
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: "purifya | Service Premium de Nettoyage de Vitres et Verre à Montréal et Rive-Sud",
+    title: "Purifya | Service Premium de Nettoyage de Vitres et Verre à Montréal et Rive-Sud",
     description:
-      "purifya offre des services professionnels de nettoyage de vitres et de verre à Montréal, Brossard, Greenfield Park, St-Lambert et St-Hubert. Nous sommes spécialisés dans le nettoyage résidentiel et commercial pour maisons de luxe, immeubles à étages, vitrines, portes de douche et cloisons en verre. Résultats impeccables avec des solutions écologiques.",
+      "Purifya offre des services professionnels de nettoyage de vitres et de verre à Montréal, Brossard, Greenfield Park, St-Lambert et St-Hubert. Nous sommes spécialisés dans le nettoyage résidentiel et commercial pour maisons de luxe, immeubles à étages, vitrines, portes de douche et cloisons en verre. Résultats impeccables avec des solutions écologiques.",
     keywords: [
-      "nettoyage de vitres Montréal",
-      "service de nettoyage de verre Montréal",
-      "lavage de fenêtres professionnel Montréal",
-      "nettoyage de fenêtres résidentiel Rive-Sud",
-      "nettoyage de vitres commercial Montréal",
+      "nettoyage de vitres",
+      "service de nettoyage de verre",
+      "lavage de fenêtres professionnel",
+      "nettoyage de fenêtres résidentiel",
+      "nettoyage de vitres commercial",
       "service de nettoyage de vitres d'immeubles",
-      "nettoyage de vitrines Montréal",
-      "nettoyage de cloisons en verre Montréal",
+      "nettoyage de vitrines",
+      "nettoyage de cloisons en verre",
       "service de nettoyage de portes de douche",
       "nettoyage de vitres sans traces",
-      "nettoyage de surfaces en verre Montréal",
+      "nettoyage de surfaces en verre",
       "service de nettoyage de miroirs",
       "nettoyage de fenêtres Brossard",
-      "lavage de vitres Greenfield Park",
-      "services de nettoyage de vitres St-Lambert",
-      "nettoyeurs de fenêtres St-Hubert",
+      "lavage de vitres",
+      "services de nettoyage de vitres",
+      "nettoyeurs de fenêtres",
       "nettoyage de verre maisons de luxe",
       "service de nettoyage de tables en verre",
-      "nettoyage de vitres Airbnb Montréal",
+      "nettoyage de vitres Airbnb",
       "nettoyage de verre écologique",
       "nettoyage de vitres pour entreprises",
-      "nettoyage de fenêtres extérieures Montréal",
+      "nettoyage de fenêtres extérieures",
       "service de lavage de verre intérieur",
-      "spécialistes en nettoyage de vitres et verre Montréal",
+      "spécialistes en nettoyage de vitres et verre",
     ],
     icons: {
       icon: "/logo-cropped.png",
@@ -120,7 +120,7 @@ export default async function RootLayout({
     },
     "WhatWeDo": {
       "title": "Notre Approche",
-      "description": "Chez purifya, nous élevons le nettoyage de fenêtres au rang d'art. Nos spécialistes utilisent des techniques avancées et des solutions haut de gamme pour garantir des fenêtres sans traces, cristallines, qui transforment votre espace et maximisent la lumière naturelle.",
+      "description": "Chez Purifya, nous élevons le nettoyage de fenêtres au rang d'art. Nos spécialistes utilisent des techniques avancées et des solutions haut de gamme pour garantir des fenêtres sans traces, cristallines, qui transforment votre espace et maximisent la lumière naturelle.",
       "list": {
         "precision": "Attention méticuleuse aux cadres, rails et seuils",
         "expertise": "Manipulation sûre du verre délicat ou spécialisé",
@@ -222,15 +222,15 @@ export default async function RootLayout({
     },
     "Footer": {
       "about": {
-        "title": "À Propos de purifya",
-        "description": "purifya fournit des services de nettoyage de fenêtres haut de gamme pour les clients exigeants de Montréal, assurant une clarté parfaite et des vues impeccables."
+        "title": "À Propos de Purifya",
+        "description": "Purifya fournit des services de nettoyage de fenêtres haut de gamme pour les clients exigeants de Montréal, assurant une clarté parfaite et des vues impeccables."
       },
       "contact": {
         "title": "Contactez-nous",
         "address": "Grand Montréal",
         "phone": "+1 (438) 530 3350",
         "whatsapp": "+1 (438) 530 3350",
-        "email": "info@purifya.ca",
+        "email": "info@Purifya.ca",
         "name": "Nom",
         "message": "Message",
         "send": "Envoyer",
@@ -268,11 +268,11 @@ export default async function RootLayout({
     },
     "About": {
       "title": "Notre Vision des Soins des Fenêtres",
-      "mission": "Chez purifya, nous redéfinissons le nettoyage de fenêtres avec des techniques innovantes et un engagement envers la qualité, transformant les espaces avec une clarté durable.",
+      "mission": "Chez Purifya, nous redéfinissons le nettoyage de fenêtres avec des techniques innovantes et un engagement envers la qualité, transformant les espaces avec une clarté durable.",
       "ourStory": "NOTRE HISTOIRE",
-      "foundersAlt": "Photo de l'équipe des fondateurs de purifya",
+      "foundersAlt": "Photo de l'équipe des fondateurs de Purifya",
       "foundersTitle": "Construit sur l'Expertise",
-      "foundersDescription": "Fondée en 2024, purifya offre un entretien précis des fenêtres avec un accent sur l'excellence et l'innovation.",
+      "foundersDescription": "Fondée en 2024, Purifya offre un entretien précis des fenêtres avec un accent sur l'excellence et l'innovation.",
       "foundersFact1": "Axé sur l'excellence en qualité et satisfaction client.",
       "foundersFact2": "Utilisation de technologies pour des solutions écologiques.",
       "foundersFact3": "Propriété et exploitation locale.",
@@ -288,7 +288,7 @@ export default async function RootLayout({
     },
     "WhyChooseUs": {
       "title": "POURQUOI NOUS CHOISIR",
-      "subtitle": "purifya dessert Montréal avec une expertise en nettoyage de fenêtres. Choisissez-nous pour notre équipement professionnel, nos normes de sécurité et notre attention aux détails.",
+      "subtitle": "Purifya dessert Montréal avec une expertise en nettoyage de fenêtres. Choisissez-nous pour notre équipement professionnel, nos normes de sécurité et notre attention aux détails.",
       "sparklingClean": {
         "title": "RÉSULTATS SANS TRACES",
         "description": "Nos techniques spécialisées et nos solutions haut de gamme garantissent des fenêtres parfaitement claires et sans traces qui maximisent la lumière naturelle et améliorent vos vues."
@@ -406,9 +406,8 @@ export default async function RootLayout({
         <link rel="apple-touch-icon" href="/logo-cropped.png" />
       </head>
 
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        
         <Header />
         {children}
         <Toaster />

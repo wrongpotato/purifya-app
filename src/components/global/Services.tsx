@@ -45,6 +45,11 @@ export default function Services() {
   const [activeService, setActiveService] = useState<ServiceKey>("residential");
 
   const services = {
+    specialized: {
+      image: `/images/services-4.jpg`,
+      alt: t.specialized.imageAlt,
+      icon: <Sparkles className="size-5" />,
+    },
     residential: {
       image: `/images/services-1.jpg`,
       alt: t.residential.imageAlt,
@@ -59,12 +64,8 @@ export default function Services() {
       image: `/images/services-3.jpg`,
       alt: t.recurring.imageAlt,
       icon: <Calendar className="size-5" />,
-    },
-    specialized: {
-      image: `/images/services-4.jpg`,
-      alt: t.specialized.imageAlt,
-      icon: <Sparkles className="size-5" />,
-    },
+    }
+
   };
 
   return (

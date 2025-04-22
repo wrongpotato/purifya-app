@@ -6,58 +6,60 @@
     "bookNow": "Obtenir un devis"
   },
   "Hero": {
-    "title": "Nettoyage de Vitres Haut de Gamme",
-    "subtitle": "Des vues cristallines grâce à nos services professionnels de nettoyage de fenêtres",
+    "title": "Nettoyage et entretien de vos locaux",
+    "subtitle": "Des sols brillants et des vues cristallines grâce à nos services professionnels de nettoyage",
     "cta": "Obtenir un Devis"
   },
   "Services": {
     "cta": "Contactez-nous",
-    "title": "Services de Fenêtres Exceptionnels",
-    "subtitle": "Solutions sur mesure pour tous vos besoins en nettoyage de fenêtres",
+    "title": "Services de Nettoyage Exceptionnels",
+    "subtitle": "Solutions sur mesure pour tous vos besoins",
+    
     "residential": {
-      "title": "Nettoyage de Fenêtres Résidentielles",
-      "imageAlt": "Service de nettoyage de fenêtres résidentielles",
-      "description": "Un service complet pour garder les fenêtres de votre maison impeccables toute l'année.",
-      "benefit1": "Techniques douces pour tous types de verre",
+      "title": "Nettoyage de vitres",
+      "imageAlt": "Service de nettoyage de fenêtres",
+      "description": "Le nettoyage des vitres devient déterminant pour les entreprises, que ce soit pour vos bureaux ou pour vos commerces. Nos équipes s’occupent ainsi du nettoyage de vos vitres, quels qu’en soit le type, y compris aux endroits difficiles d’accès :",
+      "benefit1": "Nettoyage des vitres de bureaux et d’entreprises",
       "benefit2": "Produits de nettoyage écologiques et sûrs",
-      "benefit3": "Satisfaction garantie"
+      "benefit3": "Lavage des vitres en hauteur et en toute sécurité"
     },
     "commercial": {
-      "title": "Nettoyage de Fenêtres Commerciales",
-      "imageAlt": "Service de nettoyage de fenêtres commerciales",
-      "description": "Solutions professionnelles pour les fenêtres de bureaux et de devantures de magasins.",
-      "benefit1": "Équipement de qualité industrielle pour les grands bâtiments",
-      "benefit2": "Planification flexible adaptée aux besoins de votre entreprise",
-      "benefit3": "Équipes expérimentées et certifiées"
+      "title": "Maintenance et conciergerie",
+      "imageAlt": "Maintenance",
+      "description": "Besoin de fruits pour vos collaborateurs, qu’on arrose vos plantes ou qu’on veille à ce que tout fonctionne dans vos locaux ? Découvrez notre service de maintenance et conciergerie en entreprise, et externalisez vos services généraux !",
+      "benefit1": "Plomberie, électricité",
+      "benefit2": "Petits travaux",
+      "benefit3": "Corbeilles de fruits, petits-déjeuners…"
     },
     "recurring": {
-      "title": "Services Récurrents",
-      "imageAlt": "Service d'entretien de fenêtres récurrent",
-      "description": "Planifiez un entretien périodique pour des fenêtres toujours impeccables.",
-      "benefit1": "Forfaits mensuels ou trimestriels abordables",
-      "benefit2": "Rappels automatiques pour chaque rendez-vous",
-      "benefit3": "Tarifs réduits pour les contrats annuels"
+      "title": "Livraison de matériel de nettoyage",
+      "imageAlt": "Service dde livraison",
+      "description": "Vous manquez de produits d’entretien ou vous souhaitez gagner du temps en automatisant la gestion de vos consommables ? Purifya vous propose un service de livraison de matériel de nettoyage directement dans vos locaux, en toute simplicité.",
+      "benefit1": "Fourniture et réassort régulier de produits d’entretien (désinfectants, détergents, etc.)",
+      "benefit2": "Livraison de consommables (papier toilette, essuie-mains, savon…)",
+      "benefit3": "Mise à disposition de matériel (aspirateurs, balais, seaux…)"
     },
     "specialized": {
-      "title": "Nettoyage de Fenêtres Spécialisées",
-      "imageAlt": "Service de nettoyage de fenêtres spécialisées",
-      "description": "Solutions expertes pour les besoins uniques en nettoyage de fenêtres.",
-      "benefit1": "Nettoyage sur mesure pour les fenêtres difficiles d'accès",
-      "benefit2": "Puits de lumière, vitraux et entretien de verre spécialisé",
-      "benefit3": "Service sûr et efficace par des professionnels qualifiés"
+      "title": "Entretien des locaux",
+      "imageAlt": "Entretien des locaux",
+      "description": "Vos locaux nécessitent d’être entretenus quotidiennement ? Ou seulement une fois par semaine ? Quels que soient vos besoins, nos équipes s’adapteront pour vous proposer une offre unique et personnalisée.",
+      "benefit1": "Nettoyage et désinfection des points de contact",
+      "benefit2": "Nettoyage en profondeur du mobilier et des infrastructures",
+      "benefit3": "Aspiration et nettoyage humide des sols"
     }
+    
   },
   "Footer": {
     "about": {
-      "title": "À Propos de purifya",
-      "description": "purifya fournit des services de nettoyage de fenêtres haut de gamme pour les clients exigeants de Montréal, assurant une clarté parfaite et des vues impeccables."
+      "title": "À Propos de Purifya",
+      "description": "Purifya fournit des services de nettoyage haut de gamme pour les clients exigeants de votre région, assurant une hygiène parfaite et des vues impeccables."
     },
     "contact": {
       "title": "Contactez-nous",
-      "address": "Grand Montréal",
-      "phone": "+1 (438) 530 3350",
-      "whatsapp": "+1 (438) 530 3350",
-      "email": "info@purifya.ca",
+      "address": "Chez Purifya",
+      "phone": "+33 XXXXXXXXXXX",
+      "whatsapp": "+33 XXXXXXXXXXX",
+      "email": "info@Purifya.fr",
       "name": "Nom",
       "message": "Message",
       "send": "Envoyer",
@@ -94,19 +96,19 @@
     }
   },
   "About": {
-    "title": "Notre Vision des Soins des Fenêtres",
-    "mission": "Chez purifya, nous redéfinissons le nettoyage de fenêtres avec des techniques innovantes et un engagement envers la qualité, transformant les espaces avec une clarté durable.",
+    "title": "Notre Vision de l'Entretien de Vos Locaux",
+    "mission": "Chez Purifya, nous redéfinissons le nettoyage avec des techniques innovantes et un engagement envers la qualité, transformant les espaces avec une clarté durable.",
     "ourStory": "NOTRE HISTOIRE",
-    "foundersAlt": "Photo de l'équipe des fondateurs de purifya",
+    "foundersAlt": "Photo de l'équipe des fondateurs de Purifya",
     "foundersTitle": "Construit sur l'Expertise",
-    "foundersDescription": "Fondée en 2024, purifya offre un entretien précis des fenêtres avec un accent sur l'excellence et l'innovation.",
+    "foundersDescription": "Fondée en 2025, Purifya offre un entretien précis avec un accent sur l'excellence et l'innovation.",
     "foundersFact1": "Axé sur l'excellence en qualité et satisfaction client.",
     "foundersFact2": "Utilisation de technologies pour des solutions écologiques.",
     "foundersFact3": "Propriété et exploitation locale.",
     "valuesTitle": "Nos Principes Directeurs",
     "valuesSubtitle": "Le fondement de tout ce que nous faisons",
-    "value1Title": "Artisanat de Précision",
-    "value1Description": "Attention méticuleuse à chaque fenêtre.",
+    "value1Title": "Prestation de précision",
+    "value1Description": "Attention méticuleuse à chacune de nos interventions.",
     "value2Title": "Approche Innovante",
     "value2Description": "Intégration de technologies pour des résultats impeccables.",
     "value3Title": "Engagement Durable",

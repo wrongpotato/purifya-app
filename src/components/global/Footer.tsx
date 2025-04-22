@@ -74,19 +74,19 @@ export function Footer() {
     {
       icon: Mail,
       label: t.emailLabel,
-      value: "info@purifya.ca",
-      href: "mailto:info@purifya.ca",
+      value: "info@Purifya.fr",
+      href: "mailto:info@Purifya.fr",
     },
     {
       icon: Phone,
       label: t.phoneLabel,
-      value: "+1 438 530 3350",
+      value: "+33 5 53 03 33 50",
       href: "tel:+14385303350",
     },
     {
       icon: FaWhatsapp,
       label: t.whatsappLabel,
-      value: "+1 438 530 3350",
+      value: "+33 5 53 03 33 50",
       href: "https://wa.me/14385303350",
     },
   ];

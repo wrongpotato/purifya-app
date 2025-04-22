@@ -74,10 +74,10 @@ const About = () => {
             >
               <div className="relative h-[480px] w-full overflow-hidden rounded-3xl shadow-2xl group">
                 <Image
-                  src="/images/about-1.jpg"
+                  src="/images/about-2.jpg"
                   alt={t.foundersAlt}
                   fill
-                  className="object-cover transition-all duration-700 group-hover:scale-105"
+                  className="object-cover transition-all duration-700"
                   sizes="(max-width: 768px) 100vw, 50vw"
                   priority
                 />
